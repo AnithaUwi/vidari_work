@@ -15,7 +15,7 @@ export default function LoginPage() {
         {/* Logo */}
         <div className="flex flex-col items-center mb-6">
           <div className="text-3xl font-bold text-[#00A86B]"> <img 
-    src="/vlogo2.PNG" 
+    src="/vlogo2.png" 
     alt="Vidaripay Logo" 
     className="h-16 w-auto mb-2"
   /></div>
